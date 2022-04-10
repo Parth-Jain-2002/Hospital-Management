@@ -36,4 +36,17 @@ This is the whole flow of our system:-
 -> There is a tab for the inventory too, where the hospital can manage the available inventory, available quantity and max amount. Through this tab, they can add, update and delete a particular entry
 ![image](https://user-images.githubusercontent.com/72060359/162632600-114121c9-83b1-4394-b30d-e8b7f94569fb.png)
 
+From the database end:-
+1. Doctor collection
+![image](https://user-images.githubusercontent.com/72060359/162633737-c50985ee-3990-445c-84f5-87d828a2c732.png)
+
+2. Inventory collection
+![image](https://user-images.githubusercontent.com/72060359/162633783-b404e4dc-5a60-4364-932c-98c02af91237.png)
+
+3. Lab collection
+![image](https://user-images.githubusercontent.com/72060359/162633839-0514be81-9c96-4aeb-bcfe-ae98bf4dc34d.png)
+
+4. Patient collection
+![image](https://user-images.githubusercontent.com/72060359/162633927-25e44114-228f-45b1-823c-7791395c1277.png)
+
 
